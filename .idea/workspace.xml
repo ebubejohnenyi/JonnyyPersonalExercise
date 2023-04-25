@@ -5,11 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e28c1e3-16b0-49ce-863a-de292fba21c3" name="Changes" comment="A project made for all my exercise.">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeInJava/IterationalLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeModule/MyExerciseOnSpaceLettering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/BarChartPrintingProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/CarApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ChristmasSong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/EncryptingAndDecrypting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ExerciseInBetweenNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ExerciseLuckyOrNotLuckyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FactorialOfANumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FibonacciNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FindTwoLargestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FirstNaturalNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/GetMaxAndMinNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/GettersAndSetters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LargestAndSmallestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningGUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningStringToInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseFourIndividualCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseMaximumAndMinimum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseOneOnLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseTwoOnLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/NameCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/NameReversal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/NokiaPhoneIVR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PositiveNegativeZeros.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PositivePrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PowerOfNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PracticingMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PrimeNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PrintingLeftTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ReverseMultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/SecondNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/SumNumbersWithDoWhileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ValidatingInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/JonnyyPersonalExercise/ClockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaExercises/LargestAndSmallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaExercises/LargestAndSmallestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JonnyyPersonalExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JonnyyPersonalExercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/GettersAndSetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/GettersAndSetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/LearningArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/LearningConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/LearningGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/LearningStringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningStringToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/NameReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeModule/NameReversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeModule/PracticingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/PracticingMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,37 +100,42 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidatingInput">
-    <configuration name="ExerciseInBetweenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseInBetweenNumbers" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LargestAndSmallestNumber">
+    <configuration name="IterationalLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IterationalLearning" />
       <module name="JonnyyPersonalExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseLuckyOrNotLuckyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseLuckyOrNotLuckyNumber" />
+    <configuration name="LargestAndSmallestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestAndSmallestNumber" />
       <module name="JonnyyPersonalExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseOnOddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseOnOddOrEven" />
+    <configuration name="MyExerciseOnSpaceLettering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyExerciseOnSpaceLettering" />
       <module name="JonnyyPersonalExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NokiaPhoneIVR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NokiaPhoneIVR" />
+    <configuration name="NameReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NameReversal" />
       <module name="JonnyyPersonalExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidatingInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidatingInput" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
       <module name="JonnyyPersonalExercise" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidatingInput" />
-        <item itemvalue="Application.NokiaPhoneIVR" />
-        <item itemvalue="Application.ExerciseInBetweenNumbers" />
-        <item itemvalue="Application.ExerciseLuckyOrNotLuckyNumber" />
-        <item itemvalue="Application.ExerciseOnOddOrEven" />
+        <item itemvalue="Application.LargestAndSmallestNumber" />
+        <item itemvalue="Application.IterationalLearning" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.NameReversal" />
+        <item itemvalue="Application.MyExerciseOnSpaceLettering" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +163,8 @@
       <workItem from="1681806174874" duration="39812000" />
       <workItem from="1681985490648" duration="49671000" />
       <workItem from="1682239333375" duration="2963000" />
-      <workItem from="1682253979670" duration="1160000" />
+      <workItem from="1682253979670" duration="1193000" />
+      <workItem from="1682255318081" duration="24817000" />
     </task>
     <task id="LOCAL-00001" summary="A project made for all my exercise.">
       <created>1682254883258</created>
@@ -121,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682254883258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A project made for all my exercise.">
+      <created>1682255156662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682255156662</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
