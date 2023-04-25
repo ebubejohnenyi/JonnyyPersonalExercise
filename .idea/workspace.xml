@@ -5,57 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e28c1e3-16b0-49ce-863a-de292fba21c3" name="Changes" comment="A project made for all my exercise.">
-      <change afterPath="$PROJECT_DIR$/PracticeInJava/IterationalLearning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codeModule/MyExerciseOnSpaceLettering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/BarChartPrintingProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/CarApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ChristmasSong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/Clock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/EncryptingAndDecrypting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ExerciseInBetweenNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ExerciseLuckyOrNotLuckyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FactorialOfANumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FibonacciNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FindTwoLargestNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/FirstNaturalNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/GetMaxAndMinNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/GettersAndSetters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LargestAndSmallestNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningConstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningGUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/LearningStringToInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MultiplicationTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseFourIndividualCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseMaximumAndMinimum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseOneOnLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/MyExerciseTwoOnLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/NameCollector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/NameReversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/NokiaPhoneIVR.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PositiveNegativeZeros.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PositivePrimeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PowerOfNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PracticingMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PrimeNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PrimeNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/PrintingLeftTriangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ReverseMultiplicationTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/SecondNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/SimpleCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/SumNumbersWithDoWhileLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JonnyyPersonalExercise/ValidatingInput.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/JonnyyPersonalExercise/ClockTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaExercises/LargestAndSmallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaExercises/LargestAndSmallestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JonnyyPersonalExercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JonnyyPersonalExercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/GettersAndSetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/GettersAndSetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/LearningArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/LearningConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/LearningGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/LearningStringToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/LearningStringToInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/NameReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/codeModule/NameReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codeModule/PracticingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeInJava/PracticingMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,28 +28,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jon_snow/Desktop/My java Exercise&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/jon_snow/Desktop/My java Exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -164,7 +115,7 @@
       <workItem from="1681985490648" duration="49671000" />
       <workItem from="1682239333375" duration="2963000" />
       <workItem from="1682253979670" duration="1193000" />
-      <workItem from="1682255318081" duration="24817000" />
+      <workItem from="1682255318081" duration="25436000" />
     </task>
     <task id="LOCAL-00001" summary="A project made for all my exercise.">
       <created>1682254883258</created>
